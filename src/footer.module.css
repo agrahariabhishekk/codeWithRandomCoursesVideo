@@ -1,0 +1,17 @@
+.header {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: LabGrotesque-Bold;
+  font-size: 2rem;
+  background-color: aqua;
+  height: 10vh;
+  width: 100vw;
+margin-top: 20px;
+  padding-top: 17px;
+}
+
+@font-face {
+  font-family: LabGrotesque-Bold;
+  src: url(../LabGrotesque-Bold_.938f2472.woff2);
+}

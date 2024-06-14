@@ -1,0 +1,14 @@
+
+.header{
+    text-transform: capitalize;
+    font-weight: 600;
+    color: red;
+    font-size: 20px;
+}
+
+.text{
+    text-transform: capitalize;
+    font-weight: 600;
+    color: red;
+    font-size: 20px;
+}
